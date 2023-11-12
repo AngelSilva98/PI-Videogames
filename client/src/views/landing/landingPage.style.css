@@ -1,0 +1,40 @@
+.landing-container {
+  background: url("../../images/controller-2618897_1920.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  font-size: 30px;
+}
+
+.titulo-landing {
+  color: tomato;
+  font-size: 100px;
+  font-weight: 800;
+  text-shadow: 4px 4px 8px white;
+}
+
+.titulo-secundario-landing {
+  color: tomato;
+}
+
+.join-button {
+  background-color: #000330;
+  color: tomato;
+  padding: 15px;
+  margin-bottom: 25px;
+  border-radius: 20px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+}
+
+.join-button:hover {
+  box-shadow: 4px 4px 8px white;
+}

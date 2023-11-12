@@ -1,0 +1,8 @@
+.cardlist-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  background-color: rgb(0, 3, 48);
+  border-radius: 15px;
+  margin: 20px;
+}

@@ -1,0 +1,40 @@
+.search-box {
+  margin: 20px;
+  padding: 15px;
+}
+
+.search-button {
+  background-color: #000330;
+  color: tomato;
+  margin-left: 20px;
+  padding: 15px;
+  border-radius: 20px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  box-shadow: 6px 6px 8px white;
+}
+
+.navbar-form {
+  background: url("../../images/pexels-lucie-liz-3165335.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 9%;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo-search {
+  color: tomato;
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.199);
+  width: fit-content;
+  padding: 10px;
+  border-radius: 20px;
+}

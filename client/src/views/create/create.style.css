@@ -1,0 +1,51 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url("../../images/cyberpunk_videogame_escenarie_4k-0472b238-8094-43ff-83d9-fb89dcd8cf19.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.background-form {
+  background-color: #000330b0;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.form-plataforma {
+  color: tomato;
+}
+
+.error-form {
+  color: red;
+}
+.titulo-form {
+  color: tomato;
+  padding: 20px;
+}
+
+.lista-platforms {
+  color: tomato;
+  list-style: none;
+}
+
+.label-form {
+  margin: 20px;
+  color: tomato;
+}
+
+.container-genres {
+  width: 60rem;
+  background-color: #000330;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 20px;
+}
+
+.label-genre {
+  color: tomato;
+  margin-inline: 15px;
+}

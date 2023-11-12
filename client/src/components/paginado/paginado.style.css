@@ -1,0 +1,38 @@
+.nav-paginado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paginado-list {
+  list-style: none;
+  background-color: #000330ad;
+  width: fit-content;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-inline: 20px;
+}
+
+.numeros-pag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-inline: 20px;
+  background-color: rgba(0, 0, 0, 0.432);
+  color: tomato;
+  padding-inline: 5px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.numeros-pag:hover {
+  box-shadow: 2px 2px 4px white;
+}
+
+.link-paginado {
+  text-decoration: none;
+  margin: 5px;
+  text-align: center;
+}

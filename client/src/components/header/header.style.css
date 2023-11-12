@@ -1,0 +1,40 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+.header-home {
+  margin-top: 20px;
+  color: tomato;
+  background-color: #000330;
+  padding: 5px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.header-home:hover {
+  box-shadow: 6px 6px 8px white;
+}
+
+.header-create {
+  margin-top: 20px;
+  margin-inline: 15px;
+  color: tomato;
+  background-color: #000330;
+  padding: 5px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.header-create:hover {
+  box-shadow: 6px 6px 8px white;
+}
+
+.logo-header {
+  color: tomato;
+  margin-left: 10vw;
+  font-size: 40px;
+  font-weight: 800;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}

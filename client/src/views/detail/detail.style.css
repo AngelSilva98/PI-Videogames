@@ -1,0 +1,47 @@
+.detail-name {
+  background-color: #000330;
+  padding: 20px;
+  color: tomato;
+}
+
+.detail-image {
+  width: 50%;
+}
+
+.detail-platforms {
+  background-color: #000330;
+  padding: 10px;
+  color: tomato;
+  margin-inline: 50vh;
+  border-radius: 20px;
+}
+
+.detail-rating {
+  font-size: 30px;
+  background-color: black;
+  padding: 10px;
+  margin-inline: 70vh;
+  color: yellow;
+  border-radius: 20px;
+}
+
+.detail-description {
+  font-size: 15px;
+  font-weight: 600;
+  color: tomato;
+  background-color: #000330;
+  padding: 20px;
+  margin-inline: 20px;
+  border-radius: 20px;
+  letter-spacing: 2px;
+}
+
+.detail-released {
+  font-size: 18px;
+  color: white;
+}
+
+.detail-genres {
+  color: white;
+  font-size: 20px;
+}
